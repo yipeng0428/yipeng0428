@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm Yipeng
 
-<!--
-**yipeng0428/yipeng0428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**平面设计师 × AI 应用开发者 × 闽南文创实践者**
 
-Here are some ideas to get you started:
+### 🛠 What I Do
+- AI + 设计自动化 — Python 批量处理图片、生成营销素材
+- Notion OS 构建 — 个人知识管理系统与工作流模板
+- AI Agent 开发 — 多智能体协作、提示词工程
+- 闽南文创 AI 概念设计
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Stack
+`Python` `Notion API` `AI Prompt Engineering` `Photoshop` `电商设计`
+`DeepSeek` `NVIDIA NIM` `Gemini` `Hermes Agent`
+
+### 🚀 Projects
+- 电商美工自动化工具集
+- AI 提示词库 & Notion 模板
+- 闽南文创 AI 概念设计
+- 前端页面代码生成器
+
+### 📫
+- GitHub: [@yipeng0428](https://github.com/yipeng0428)
