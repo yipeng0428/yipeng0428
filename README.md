@@ -13,10 +13,11 @@
 `DeepSeek` `NVIDIA NIM` `Gemini` `Hermes Agent`
 
 ### 🚀 Projects
+- ⏳ [**Time Capsule · 时间胶囊**](https://github.com/yipeng0428/time-capsule) — 桌面小组件：时钟/闹钟/任务/倒计时，纯HTML + Electron便携版
 - 电商美工自动化工具集
 - AI 提示词库 & Notion 模板
 - 闽南文创 AI 概念设计
-- 前端页面代码生成器
+- [前端页面代码生成器](https://github.com/yipeng0428/front-end-page-maker)
 
 ### 📫
 - GitHub: [@yipeng0428](https://github.com/yipeng0428)
